@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "volta as aulas", "volta as aulas.csproj", "{76174062-A245-1DEC-5281-7E31630C4497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76174062-A245-1DEC-5281-7E31630C4497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76174062-A245-1DEC-5281-7E31630C4497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76174062-A245-1DEC-5281-7E31630C4497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76174062-A245-1DEC-5281-7E31630C4497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A11C427-6E3B-45AB-8FA0-D00A5192A5E5}
+	EndGlobalSection
+EndGlobal

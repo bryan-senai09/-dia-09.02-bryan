@@ -1,0 +1,14 @@
+C:\Users\437340624\Documents\volta as aulas\obj\Debug\net8.0\volta as aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\437340624\Documents\volta as aulas\obj\Debug\net8.0\volta as aulas.AssemblyInfoInputs.cache
+C:\Users\437340624\Documents\volta as aulas\obj\Debug\net8.0\volta as aulas.AssemblyInfo.cs
+C:\Users\437340624\Documents\volta as aulas\obj\Debug\net8.0\volta as aulas.csproj.CoreCompileInputs.cache
+C:\Users\437340624\Documents\volta as aulas\bin\Debug\net8.0\volta as aulas.exe
+C:\Users\437340624\Documents\volta as aulas\bin\Debug\net8.0\volta as aulas.deps.json
+C:\Users\437340624\Documents\volta as aulas\bin\Debug\net8.0\volta as aulas.runtimeconfig.json
+C:\Users\437340624\Documents\volta as aulas\bin\Debug\net8.0\volta as aulas.dll
+C:\Users\437340624\Documents\volta as aulas\bin\Debug\net8.0\volta as aulas.pdb
+C:\Users\437340624\Documents\volta as aulas\obj\Debug\net8.0\volta as aulas.dll
+C:\Users\437340624\Documents\volta as aulas\obj\Debug\net8.0\refint\volta as aulas.dll
+C:\Users\437340624\Documents\volta as aulas\obj\Debug\net8.0\volta as aulas.pdb
+C:\Users\437340624\Documents\volta as aulas\obj\Debug\net8.0\volta as aulas.genruntimeconfig.cache
+C:\Users\437340624\Documents\volta as aulas\obj\Debug\net8.0\ref\volta as aulas.dll
