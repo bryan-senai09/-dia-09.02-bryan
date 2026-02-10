@@ -114,20 +114,60 @@
 // }
 
 
-Console.WriteLine("coloque  sua nota");
-double nota = double.Parse(Console.ReadLine());
+// Console.WriteLine("coloque  sua nota");
+// double nota = double.Parse(Console.ReadLine());
 
-if (nota > 6)
-{
-    Console.WriteLine("Muito bem vc foi aprovado");
-}
-else if (nota > 5)
-{
+// if (nota > 6)
+// {
+//     Console.WriteLine("Muito bem vc foi aprovado");
+// }
+// else if (nota > 5)
+// {
     
-Console.WriteLine("ai vc esta de recuperaçao");
+// Console.WriteLine("ai vc esta de recuperaçao");
 
-}
-else
+// }
+// else
+// {
+//     Console.WriteLine("ai melhore da poxima vez");
+// }
+
+
+// Console.WriteLine("digite a idade");
+// int idade = int.Parse(Console.ReadLine());
+// if(idade < 18)
+// {
+//     Console.WriteLine("menor de idade");
+
+// }
+// else if (idade < 60)
+// {
+//     Console.WriteLine("adulta");
+// }
+// else
+// {
+//     Console.WriteLine("idosa");
+// }
+
+
+// Console.WriteLine("digite o numero ");
+// int numero = int.Parse(Console.ReadLine());
+// if (numero > 0)
+// {
+//     Console.WriteLine("o numero e positivo");
+// }
+// else if  (numero < 0)
+// {
+//     Console.WriteLine("o numero e positivo");
+// }
+// else
+// {
+//     Console.WriteLine("o numero e zero");
+// }
+
+// 3-ativ
+
+for (int i = 0; i < 11; i++)
 {
-    Console.WriteLine("ai melhore da poxima vez");
+    Console.WriteLine($"o contador de e: {i}");
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("volta as aulas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd8a68cf5f21d5a79e220f2ea75877e8529941a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("volta as aulas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("volta as aulas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

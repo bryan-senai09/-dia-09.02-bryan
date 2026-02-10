@@ -12,3 +12,4 @@ C:\Users\437340624\Documents\volta as aulas\obj\Debug\net8.0\refint\volta as aul
 C:\Users\437340624\Documents\volta as aulas\obj\Debug\net8.0\volta as aulas.pdb
 C:\Users\437340624\Documents\volta as aulas\obj\Debug\net8.0\volta as aulas.genruntimeconfig.cache
 C:\Users\437340624\Documents\volta as aulas\obj\Debug\net8.0\ref\volta as aulas.dll
+C:\Users\437340624\Documents\volta as aulas\obj\Debug\net8.0\volta as aulas.sourcelink.json
